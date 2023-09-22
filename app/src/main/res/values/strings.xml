@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SnakeCheck</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="article1">Tips and How To Use</string>
+    <string name="article2">Terms and Conditions</string>
+    <string name="paragraph2">แอปพลิเคชันนี้ใช้สำหรับจำแนกภาพงูสำหรับหมู่บ้านงูจงอาง \n
+รองรับงูสายพันธุ์ 7 สายพันธุ์ ดังนี้ \n
+งูเห่า = Monocled_cobra \n
+งูจงอาง = King_cobra \n
+งูหลาม = Burmese_python \n
+งููเหลือม = Python_reticulatus \n
+งูปล้องทอง = Mangrove_snake \n
+งูสิง = Ptyas_korros \n
+งูทางมะพร้าว = Copperhead_racer \n
+
+    </string>
+    <string name="paragraph1">แอปพลิเคชันนี้ใช้สำหรับจำแนกชนิดงูจากหมู่บ้านงูจงอาง  \n\nStep 1: กดปุ่ม Take Picture เพื่อทำการถ่ายภาพที่ต้องการ หรือ กดปุ่ม Launch Gallery เพื่อเลือกภาพที่ต้องการ\n\nStep 2: รอแอปพลิเคชันแสดงผลลัพธ์\n\n***
+ถ้าผลลัพธ์มากกว่า 90% คือ มีโอกาสสูงที่แอปจะจำแนกงูได้ถูกต้อง
+ถ้าผลลัพธ์น้อยกว่า 90% แนะนำให้ทำการเช็คภาพให้แน่ใจว่าภาพนั้นคมชัด ไม่พร่ามัว หรือทดลองใช้หลาย ๆ ภาพ เพื่อจำแนกได้ดีขึ้น
+
+***
+    </string>
+
+</resources>
